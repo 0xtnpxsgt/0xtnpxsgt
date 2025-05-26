@@ -6,7 +6,9 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xtnpxsgt/0xtnpxsgt/main/assets/banner3.gif" alt="banner" />
 </p>
+
 ---
+
 # 👋 Hello, I'm 0xtnpxsgt!
 
 I'm a Web Developer and Information Systems Technology graduate with 5+ years of hands-on experience building intelligent, data-driven applications and deploying blockchain infrastructure. My work reflects a passion for combining machine learning with real-world applications, especially in the Web3 and crypto prediction space.
