@@ -53,15 +53,6 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 🛠 Node Deployment · 🔐 Reputation Scoring · 📈 Data Forecasting · 📦 Web3 APIs · 👾 Hacktivity
 ```
 
----
-
-### 🤝 Connect with Me
-[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tnpxsgt)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:denyxvillavon@gmail.com)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/0xtnpxsgt)
-
----
-
 ### Support My Craft:
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FFD700&pause=1000&center=true&vCenter=true&width=435&lines=Buy+Me+Coffee&background=00000000" />
@@ -75,5 +66,14 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 <p align="left">
   <img src="https://img.shields.io/badge/BINANCE_PAY_ID_:_65642518-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold" alt="Binance Pay ID"/>
 </p>
+
+---
+
+### 🤝 Connect with Me
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tnpxsgt)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:denyxvillavon@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/0xtnpxsgt)
+
+---
 
 > *“Every line of code is a rune. Every deployment, a spell. Let's build magic together.”* 🔮
