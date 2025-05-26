@@ -40,7 +40,7 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 ---
 ### 📊 Github Stats
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist;Airdrop+Hunter&background=00000000" />
 </p>
 </p>
 <p align="center">
