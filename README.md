@@ -4,12 +4,6 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 
 I actively contribute to the **Allora Network**, where I've built multiple inference workers for price prediction, implemented custom models like **BiRNN**, **XGBoost**, **ARIMA**, **LSTM**, and **Prophet**, and integrated dynamic oracle systems with Flask backends. I also enjoy making clear and practical guides for complex node setups, empowering others to get involved in cutting-edge projects.
 
-## 📊 GitHub Stats
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=0xtnpxsgt&show_icons=true&theme=shades-of-purple" />
-</a>
-
 ## 🚀 Projects
 
 - **[Allora-Comprehensive-Guide](https://github.com/0xtnpxsgt/Allora-Comprehensive-Guide)** – Mastering Cryptocurrency Price Prediction with BiRNN and Flask Worker Integration
@@ -40,10 +34,6 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-purple?style=flat-square)
 
 ## 📊 GitHub Stats
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xtnpxsgt&layout=compact&langs_count=8&card_width=320&theme=monokai" />
-</a>
-
 ![0xtnpxsgt's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xtnpxsgt&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xtnpxsgt&layout=compact&theme=tokyonight)
 
