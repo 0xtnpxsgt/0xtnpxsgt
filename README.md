@@ -1,9 +1,8 @@
-### 👋 Greetings, code conjurer!
-I'm **0xtnpxsgt**,
+# 👋 Hello, I'm 0xtnpxsgt!
+
 I'm a Web Developer and Information Systems Technology graduate with 5+ years of hands-on experience building intelligent, data-driven applications and deploying blockchain infrastructure. My work reflects a passion for combining machine learning with real-world applications, especially in the Web3 and crypto prediction space.
 
 I actively contribute to the **Allora Network**, where I've built multiple inference workers for price prediction, implemented custom models like **BiRNN**, **XGBoost**, **ARIMA**, **LSTM**, and **Prophet**, and integrated dynamic oracle systems with Flask backends. I also enjoy making clear and practical guides for complex node setups, empowering others to get involved in cutting-edge projects.
-
 
 ## 🚀 Projects
 
