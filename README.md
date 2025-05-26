@@ -61,9 +61,7 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ### 💰 Support My Craft:
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFD700&pause=1000&center=true&vCenter=true&width=435&lines=Buy+Me+Coffee&background=00000000" />
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FFD700&pause=1000&center=true&vCenter=true&width=435&lines=Buy+Me+Coffee&background=00000000" />
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Buy+Me+%7C+Coffee" alt="Typing SVG" />
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/SOL-H6zFVqFtB9JXejSAMwPS7eKKqxPWVQDxpqhRyoi2Xw74-9B59B6.svg?&style=for-the-badge&logo=solana&logoColor=9B59B6" alt="Solana Wallet"/>
@@ -82,7 +80,8 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ### 🌀 Motion-Style Badges
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Web3+Developer+%7C+Machine+Learning+Wizard;Oracle+Builder+%7C+Flask+Inference+Engineer;Node+Infrastructure+Expert+%7C+Loves+Python+%26+XGBoost" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FFD700&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
+</p>
 </p>
 
 <p align="center">
