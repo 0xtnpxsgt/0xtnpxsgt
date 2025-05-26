@@ -2,7 +2,7 @@
 
 I'm a Web Developer and Information Systems Technology graduate with 5+ years of hands-on experience building intelligent, data-driven applications and deploying blockchain infrastructure. My work reflects a passion for combining machine learning with real-world applications, especially in the Web3 and crypto prediction space.
 
-## 🚀 Projects
+### 🚀 Projects
 
 - **[Allora-Comprehensive-Guide](https://github.com/0xtnpxsgt/Allora-Comprehensive-Guide)** – Mastering Cryptocurrency Price Prediction with BiRNN and Flask Worker Integration
 - **[Emperia-Node](https://github.com/0xtnpxsgt/Empeiria-Node-Setup)** – Empeiria-Node Installation Step-by-Step
@@ -10,7 +10,7 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 
 > Explore more in my repos – from AI-enhanced blockchain tools to powerful forecasting apps.
 
-## 🧠 Skills & Focus Areas
+### 🧠 Skills & Focus Areas
 
 - Cryptocurrency Price Forecasting (LSTM, ARIMA, Prophet, XGBoost, BiRNN)
 - Flask Inference Services and Allora Worker Integration
@@ -19,7 +19,7 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 - Docker & Scalable Worker Infrastructure
 - API Integration (CoinGecko, Binance, Upshot)
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
