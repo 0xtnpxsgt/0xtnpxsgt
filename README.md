@@ -63,13 +63,10 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
   <img src="https://img.shields.io/badge/SOL-H6zFVqFtB9JXejSAMwPS7eKKqxPWVQDxpqhRyoi2Xw74-9B59B6.svg?&style=for-the-badge&logo=solana&logoColor=9B59B6" alt="Solana Wallet"/>
 </p>
 <p align="left">
-  <img src="https://img.shields.io/badge/BINANCE_PAY_ID_:_65642518-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold" alt="Binance Pay ID"/>
-</p>
-
-<p align="left">
   <img src="https://img.shields.io/badge/ETH-0x22Ca00129b6e9577Ff195801560A154C92C43554-informational.svg?&style=for-the-badge&color=blue" alt="Ethereum Wallet"/>
 </p>
-
-
+<p align="left">
+  <img src="https://img.shields.io/badge/BINANCE_PAY_ID_:_65642518-000033.svg?&style=for-the-badge&logo=GitHub-Sponsors&logoColor=FF8C00&color=gold" alt="Binance Pay ID"/>
+</p>
 
 > *“Every line of code is a rune. Every deployment, a spell. Let's build magic together.”* 🔮
