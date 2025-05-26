@@ -25,15 +25,7 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 </p>
 
 ---
-### 🧠 Skills & Focus Areas
 
-- Cryptocurrency Price Forecasting (LSTM, ARIMA, Prophet, XGBoost, BiRNN)
-- Flask Inference Services and Allora Worker Integration
-- Blockchain Node Deployment & Optimization (e.g. 0gLabs, Empeiria, Allora)
-- Oracle Systems, Reputation & Scoring Mechanisms
-- Docker & Scalable Worker Infrastructure
-- API Integration (CoinGecko, Binance, Upshot)
----
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
