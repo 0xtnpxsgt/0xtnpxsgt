@@ -15,13 +15,12 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 
 ---
 
-<p align="center">
+<p align="left">
   <a href="https://t.me/SelectCircle">
     <img src="https://img.shields.io/badge/Telegram_Channel:-Select_Circle-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue" />
   </a>
 </p>
-
-<p align="center">
+<p align="left">
   <a href="https://discord.gg/Gut4RqF7Bt">
     <img src="https://img.shields.io/badge/Discord_Channel:-Select_Circle-B22222.svg?&style=for-the-badge&logo=Discord&logoColor=blue&color=blue" />
   </a>
