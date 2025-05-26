@@ -31,7 +31,9 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-purple?style=flat-square)
 
-### 📊 GitHub Stats
+### 📊 <p align="left">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Github+Stats&background=00000000" />
+</p>
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
 </p>
