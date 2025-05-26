@@ -80,16 +80,9 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ### 🌀 Motion-Style Badges
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FFD700&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
 </p>
 </p>
-
-<p align="center">
-  <a href="https://github.com/0xtnpxsgt">
-    <img src="https://github-profile-trophy.vercel.app/?username=0xtnpxsgt&theme=matrix&row=1&column=7" alt="GitHub Trophies"/>
-  </a>
-</p>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xtnpxsgt&theme=tokyonight" alt="GitHub Streak"/>
 </p>
