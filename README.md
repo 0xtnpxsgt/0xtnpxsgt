@@ -34,6 +34,13 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-purple?style=flat-square)
 
 ### 📊 GitHub Stats
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
+</p>
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xtnpxsgt&theme=tokyonight" alt="GitHub Streak"/>
+</p>
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xtnpxsgt&show_icons=true&theme=tokyonight" />
