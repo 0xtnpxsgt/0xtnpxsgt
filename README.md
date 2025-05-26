@@ -62,7 +62,7 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=FFD700&pause=1000&center=true&vCenter=true&width=435&lines=Buy+Me+Coffee&background=00000000" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=FFD700&pause=1000&center=true&vCenter=true&width=435&lines=Buy+Me+Coffee&background=00000000" />
   <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Buy+Me+%7C+Coffee" alt="Typing SVG" />
 </p>
 <p align="left">
