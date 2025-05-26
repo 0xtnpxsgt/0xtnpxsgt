@@ -12,6 +12,7 @@
 ### 👋 Hello, I'm 0xtnpxsgt!
 
 I'm a Web Developer and Information Systems Technology graduate with 5+ years of hands-on experience building intelligent, data-driven applications and deploying blockchain infrastructure. My work reflects a passion for combining machine learning with real-world applications, especially in the Web3 and crypto prediction space.
+---
 
 <a href="https://t.me/SelectCircle">
   <img src="https://img.shields.io/badge/Telegram_Channel:-Select_Circle-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue" />
