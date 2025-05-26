@@ -1,13 +1,11 @@
 <!-- Banner Image -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xtnpxsgt/0xtnpxsgt/main/assets/Banner.png" alt="banner" />
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=0xtnpxsgt&style=flat-square&color=blue" alt="Profile Views"/>
   <a href="https://docs.allora.network" target="_blank"><img src="https://img.shields.io/badge/Allora%20Docs-FF5F5F?style=flat-square&logo=readthedocs&logoColor=white" alt="Allora Docs"/></a>
 </p>
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/0xtnpxsgt/0xtnpxsgt/main/assets/banner.gif" alt="banner" />
+</p>
 # 👋 Hello, I'm 0xtnpxsgt!
 
 I'm a Web Developer and Information Systems Technology graduate with 5+ years of hands-on experience building intelligent, data-driven applications and deploying blockchain infrastructure. My work reflects a passion for combining machine learning with real-world applications, especially in the Web3 and crypto prediction space.
