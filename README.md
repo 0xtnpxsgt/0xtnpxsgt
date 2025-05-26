@@ -17,13 +17,6 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
   <img src="https://img.shields.io/badge/Telegram_Channel:-Select_Circle-B22222.svg?&style=for-the-badge&logo=Telegram&logoColor=blue&color=blue" />
 </a>
 
-### 🚀 Projects
-
-- **[Allora-Comprehensive-Guide](https://github.com/0xtnpxsgt/Allora-Comprehensive-Guide)** – Mastering Cryptocurrency Price Prediction with BiRNN and Flask Worker Integration
-- **[Emperia-Node](https://github.com/0xtnpxsgt/Empeiria-Node-Setup)** – Empeiria-Node Installation Step-by-Step
-- **[Random-Node-Guides](https://github.com/0xtnpxsgt/randomnodes)** – Random Node Tutorials and Infrastructure Guides
-
-> Explore more in my repos – from AI-enhanced blockchain tools to powerful forecasting apps.
 ---
 ### 🧠 Skills & Focus Areas
 
