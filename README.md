@@ -70,3 +70,21 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 </p>
 
 > *“Every line of code is a rune. Every deployment, a spell. Let's build magic together.”* 🔮
+
+
+
+### 🌀 Motion-Style Badges
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer+%7C+Machine+Learning+Wizard;Oracle+Builder+%7C+Flask+Inference+Engineer;Node+Infrastructure+Expert+%7C+Loves+Python+%26+XGBoost" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/0xtnpxsgt">
+    <img src="https://github-profile-trophy.vercel.app/?username=0xtnpxsgt&theme=matrix&row=1&column=7" alt="GitHub Trophies"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xtnpxsgt&theme=tokyonight" alt="GitHub Streak"/>
+</p>
