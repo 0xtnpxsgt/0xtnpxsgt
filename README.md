@@ -51,9 +51,7 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ---
 
 ### 🤝 Connect with Me
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Buy+Me+%7C+Coffee" alt="Typing SVG" />
-</p>
+
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tnpxsgt)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:denyxvillavon@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/0xtnpxsgt)
