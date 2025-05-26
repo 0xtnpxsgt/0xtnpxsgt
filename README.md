@@ -41,3 +41,36 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 
 - Email: [denyxvillavon@gmail.com](mailto:denyxvillavon@gmail.com)
 - Telegram: [@tnpxsgt](https://t.me/tnpxsgt)
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=0xtnpxsgt&show_icons=true&theme=tokyonight" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xtnpxsgt&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🔍 Interests
+
+```txt
+🛠 Node Deployment · 🔐 Reputation Scoring · 📈 Data Forecasting · 📦 Web3 APIs · 👾 Hacktivity
+```
+
+---
+
+### 🤝 Connect with Me
+
+[![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tnpxsgt)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:denyxvillavon@gmail.com)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/0xtnpxsgt)
+
+---
+
+### ☕ Support My Craft
+
+- **PayPal**: [Click here](https://paypal.me/yourlink)
+- **ETH**: `0x07FE74030B01B1F9A9C2699929D7CAFDA66EBF06`
+
+---
+
+> *“Every line of code is a rune. Every deployment, a spell. Let's build magic together.”* 🔮
