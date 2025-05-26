@@ -56,11 +56,10 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 ---
 
 ### 🤝 Connect with Me
-<p align="center">
 [![Telegram](https://img.shields.io/badge/-Telegram-2CA5E0?style=flat-square&logo=telegram&logoColor=white)](https://t.me/tnpxsgt)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:denyxvillavon@gmail.com)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/0xtnpxsgt)
-</p>
+
 ---
 
 ### Support My Craft:
