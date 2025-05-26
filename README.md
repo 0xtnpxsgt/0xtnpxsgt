@@ -44,8 +44,8 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=0xtnpxsgt&layout=compact&langs_count=8&card_width=320&theme=monokai" />
 </a>
 
-![Denrod's GitHub stats](https://github-readme-stats.vercel.app/api?username=denrod&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=denrod&layout=compact&theme=tokyonight)
+![0xtnpxsgt's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xtnpxsgt&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xtnpxsgt&layout=compact&theme=tokyonight)
 
 ## 📫 Let's Connect
 
