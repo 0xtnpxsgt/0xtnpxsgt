@@ -59,6 +59,9 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ---
 
 ### 💰 Support My Craft:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=500&lines=Buy+Me+%7C+Coffee" alt="Typing SVG" />
+</p>
 <p align="left">
   <img src="https://img.shields.io/badge/SOL-H6zFVqFtB9JXejSAMwPS7eKKqxPWVQDxpqhRyoi2Xw74-9B59B6.svg?&style=for-the-badge&logo=solana&logoColor=9B59B6" alt="Solana Wallet"/>
 </p>
