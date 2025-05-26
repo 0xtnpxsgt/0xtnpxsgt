@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/0xtnpxsgt/0xtnpxsgt/main/assets/banner3.gif" alt="banner" />
 </p>
+---
 # 👋 Hello, I'm 0xtnpxsgt!
 
 I'm a Web Developer and Information Systems Technology graduate with 5+ years of hands-on experience building intelligent, data-driven applications and deploying blockchain infrastructure. My work reflects a passion for combining machine learning with real-world applications, especially in the Web3 and crypto prediction space.
@@ -17,7 +18,7 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 - **[Random-Node-Guides](https://github.com/0xtnpxsgt/randomnodes)** – Random Node Tutorials and Infrastructure Guides
 
 > Explore more in my repos – from AI-enhanced blockchain tools to powerful forecasting apps.
-
+---
 ### 🧠 Skills & Focus Areas
 
 - Cryptocurrency Price Forecasting (LSTM, ARIMA, Prophet, XGBoost, BiRNN)
@@ -26,7 +27,7 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 - Oracle Systems, Reputation & Scoring Mechanisms
 - Docker & Scalable Worker Infrastructure
 - API Integration (CoinGecko, Binance, Upshot)
-
+---
 ### 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -38,7 +39,7 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 ![Linux](https://img.shields.io/badge/-Linux-black?style=flat-square&logo=linux)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-purple?style=flat-square)
-
+---
 ### 📊 Github Stats
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=39FF14&pause=1000&center=true&vCenter=true&width=435&lines=Web3+Developer;ML+Engineer;Node+Infra+Specialist&background=00000000" />
