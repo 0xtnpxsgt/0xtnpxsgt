@@ -57,7 +57,7 @@ I'm a Web Developer and Information Systems Technology graduate with 5+ years of
 ### 🔍 Interests
 
 ```txt
-🛠 Node Deployment · 🔐 Reputation Scoring · 📈 Data Forecasting · 📦 Web3 APIs · 👾 Hacktivity
+🛠 Node Deployment · 🤝 Airdrop · 📈 Data Forecasting · 📦 Web3 APIs · 👾 Hacktivity · 🔐 Reputation Scoring
 ```
 ---
 ### Support My Craft:
