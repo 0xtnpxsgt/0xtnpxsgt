@@ -11,6 +11,14 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 - **[Random-Node-Guides](https://github.com/0xtnpxsgt/randomnodes)** – Random Node Tutorials and Infrastructure Guides
 
 > Explore more in my repos – from AI-enhanced blockchain tools to powerful forecasting apps.
+### 👋 Greetings, code conjurer!
+
+I'm **0xtnpxsgt**, a digital sorcerer weaving smart Web3 logic and powerful machine learning spells into blockchain dApps and oracle nodes.
+
+🧙‍♂️ Currently summoning:
+- Scalable **Flask inference workers** integrated with blockchain
+- Price prediction models like **LSTM**, **XGBoost**, and **Prophet**
+- Guide-heavy deployments for networks like **Allora**, **0G**, and **Empeiria**
 
 ## 🧠 Skills & Focus Areas
 
