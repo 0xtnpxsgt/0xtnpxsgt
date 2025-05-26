@@ -4,7 +4,7 @@
   <a href="https://docs.allora.network" target="_blank"><img src="https://img.shields.io/badge/Allora%20Docs-FF5F5F?style=flat-square&logo=readthedocs&logoColor=white" alt="Allora Docs"/></a>
 </p>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/0xtnpxsgt/0xtnpxsgt/main/assets/banner.gif" alt="banner" />
+  <img src="https://raw.githubusercontent.com/0xtnpxsgt/0xtnpxsgt/main/assets/banner1.gif" alt="banner" />
 </p>
 # 👋 Hello, I'm 0xtnpxsgt!
 
