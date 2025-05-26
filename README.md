@@ -33,14 +33,6 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Ethers.js](https://img.shields.io/badge/-Ethers.js-purple?style=flat-square)
 
-## 📊 GitHub Stats
-![0xtnpxsgt's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xtnpxsgt&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xtnpxsgt&layout=compact&theme=tokyonight)
-
-## 📫 Let's Connect
-
-- Email: [denyxvillavon@gmail.com](mailto:denyxvillavon@gmail.com)
-- Telegram: [@tnpxsgt](https://t.me/tnpxsgt)
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -69,8 +61,10 @@ I actively contribute to the **Allora Network**, where I've built multiple infer
 ### ☕ Support My Craft
 
 - **PayPal**: [Click here](https://paypal.me/yourlink)
-- **ETH**: `0x07FE74030B01B1F9A9C2699929D7CAFDA66EBF06`
+- **ETH**: `0x22Ca00129b6e9577Ff195801560A154C92C43554`
 
+  <img height="180" src="https://img.shields.io/badge/SOL-H6zFVqFtB9JXejSAMwPS7eKKqxPWVQDxpqhRyoi2Xw74-9B59B6.svg?&style=for-the-badge&logo=solana&logoColor=9B59B6" />
 ---
+
 
 > *“Every line of code is a rune. Every deployment, a spell. Let's build magic together.”* 🔮
